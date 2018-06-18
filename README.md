@@ -1,12 +1,10 @@
-# my-project
+ A Vue.js project with vuetify components
 
-> A Vue.js project
-
-## Build Setup
+# Build Setup
 
 # install dependencies
- run npm install
+ run npm install in terminal
 
 # serve with localhost:8080
-run npm run dev in console
+run npm run dev in terminal
 
